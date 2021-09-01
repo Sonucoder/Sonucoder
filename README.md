@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonucoder
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning c,c++,java,phython,webdevelopment
+- 🌱 I’m currently learning c,c++,java,phython,web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
