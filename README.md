@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonu kumar
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning c,java,phython,web development
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C, Java and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
